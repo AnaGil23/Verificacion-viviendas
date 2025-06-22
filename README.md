@@ -9,3 +9,6 @@ Este script forma parte del Trabajo de Fin de Máster:
 Ana Gil
 Máster Universitario en Tecnologías de la Información Geográfica
 Universidad de Alcalá – Curso 2024/2025
+
+Este script forma parte del Trabajo de Fin de Máster titulado:
+"Diagnóstico territorial y delimitación de áreas de vulnerabilidad social frente a inundaciones mediante análisis espacial y visualización interactiva en 3D: caso de Catarroja y Massanassa"
